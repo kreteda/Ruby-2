@@ -23,4 +23,4 @@ Dokumentacja klas jezyka Ruby:
   - [Array](ruby.md)
   - [Enumerable](ruby.md)
 2. [x] Coś do przetestowania na początek
-3. [ ] Program/Biblioteka/Aplikacja WWW
+3. [x] Program/Biblioteka/Aplikacja WWW(https://github.com/kreteda/Ruby-2/tree/master/zadanie%203/blog)
